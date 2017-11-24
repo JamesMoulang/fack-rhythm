@@ -16,6 +16,7 @@ public class CloudBehaviour : AudioEventListener {
 	public List<Material> RainMaterials;
 	public List<GameObject> SmallerClouds;
 	public int ChildCloudCount = 3;
+	public float RotationSpeed;
 
 	private MeshRenderer rainMesh;
 	private Vector3 targetScale;
@@ -25,6 +26,7 @@ public class CloudBehaviour : AudioEventListener {
 	private int rainFrameIndex = 0;
 	private float rainStartTime;
 	private List<GameObject> ChildClouds = new List<GameObject> ();
+	private Vector3 spinAnchor;
 
 	// Use this for initialization
 	void Start () {
@@ -41,6 +43,12 @@ public class CloudBehaviour : AudioEventListener {
 			(Random.value - 0.5f) * StageX,
 			EndHeight + (Random.value - 0.5f) * HeightVariance,
 			(Random.value - 0.5f) * StageZ
+		);
+
+		spinAnchor = new Vector3 (
+			0f,
+			endPosition.y,
+			0f
 		);
 
 		targetScale = transform.localScale;
@@ -94,6 +102,8 @@ public class CloudBehaviour : AudioEventListener {
 			targetScale,
 			0.25f
 		);
+
+		endPosition = Quaternion.Euler (0f, Time.deltaTime * RotationSpeed, 0f) * endPosition;
 
 		transform.position = Vector3.MoveTowards (
 			transform.position,

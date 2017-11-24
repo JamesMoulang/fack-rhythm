@@ -116,7 +116,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4386258418536042, guid: 911823d4b119e478abae3f828635fcd1, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 12.8
+      value: 9.3
       objectReference: {fileID: 0}
     - target: {fileID: 4386258418536042, guid: 911823d4b119e478abae3f828635fcd1, type: 2}
       propertyPath: m_LocalPosition.y
@@ -124,7 +124,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4386258418536042, guid: 911823d4b119e478abae3f828635fcd1, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -8.6
+      value: 15.3
       objectReference: {fileID: 0}
     - target: {fileID: 4386258418536042, guid: 911823d4b119e478abae3f828635fcd1, type: 2}
       propertyPath: m_LocalRotation.x
@@ -921,7 +921,8 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114368208604806706, guid: 5c608058ae9fa4fd2875b04917b61cba, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 5c608058ae9fa4fd2875b04917b61cba, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &486481466
@@ -2473,6 +2474,7 @@ MonoBehaviour:
   - {fileID: 2100000, guid: 816af8664df8049e68ec6b5cf545eedf, type: 2}
   SmallerClouds: []
   ChildCloudCount: 3
+  RotationSpeed: 0
 --- !u!114 &983509756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4180,6 +4182,7 @@ MonoBehaviour:
   - {fileID: 1885327126730970, guid: 06a593f1a3b844444af70741b4c4dd95, type: 2}
   - {fileID: 1535697200671750, guid: 5aff6e09efdd54d0298f2f4403ab27a8, type: 2}
   ChildCloudCount: 3
+  RotationSpeed: 10
 --- !u!114 &1718515507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4471,8 +4474,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1915997438}
   - component: {fileID: 1915997439}
-  - component: {fileID: 1915997440}
-  - component: {fileID: 1915997441}
+  - component: {fileID: 1915997442}
   m_Layer: 0
   m_Name: wiggle
   m_TagString: Untagged
@@ -4533,7 +4535,7 @@ SpriteRenderer:
   m_Size: {x: 6.4, y: 4}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
---- !u!114 &1915997440
+--- !u!114 &1915997442
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -4541,42 +4543,28 @@ MonoBehaviour:
   m_GameObject: {fileID: 1915997437}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 31175c9acd2e1b14a9db60dc193ca658, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  RandomFrame: 1
-  animations:
-  - name: default
-    frames:
-    - {fileID: 21300000, guid: 6830f121060cc480fb08a0587338e1d4, type: 3}
-    - {fileID: 21300000, guid: dad21eaf3340d455c9f133e2dc00efa5, type: 3}
-    - {fileID: 21300000, guid: 5c0e74b0367794d8085bdb2c2f318510, type: 3}
-    - {fileID: 21300000, guid: 6830f121060cc480fb08a0587338e1d4, type: 3}
-    - {fileID: 21300000, guid: dad21eaf3340d455c9f133e2dc00efa5, type: 3}
-    - {fileID: 21300000, guid: 6830f121060cc480fb08a0587338e1d4, type: 3}
-    - {fileID: 21300000, guid: dad21eaf3340d455c9f133e2dc00efa5, type: 3}
-    - {fileID: 21300000, guid: 6830f121060cc480fb08a0587338e1d4, type: 3}
-    - {fileID: 21300000, guid: dad21eaf3340d455c9f133e2dc00efa5, type: 3}
-    - {fileID: 21300000, guid: 5c0e74b0367794d8085bdb2c2f318510, type: 3}
-    framesPerSec: 30
-    loop: 1
-  currentFrame: 0
---- !u!114 &1915997441
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1915997437}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d45cbb133e53b4069a73322a9b6dd171, type: 3}
+  m_Script: {fileID: 11500000, guid: 005f044870178e844a641523201e53d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   keys:
   - Piped 1
   - Piped 2
   - Oo wow
-  TimeToShow: 0.6
+  Animations:
+  - Name: Piped 1
+    Frames:
+    - {fileID: 21300000, guid: 5c0e74b0367794d8085bdb2c2f318510, type: 3}
+    - {fileID: 21300000, guid: dad21eaf3340d455c9f133e2dc00efa5, type: 3}
+    - {fileID: 21300000, guid: 6830f121060cc480fb08a0587338e1d4, type: 3}
+    Length: 10
+    fps: 15
+  - Name: Piped 2
+    Frames:
+    - {fileID: 21300000, guid: df948122a875faa46a694bc0e7ecff05, type: 3}
+    - {fileID: 21300000, guid: df5f0e42ae9f3884bbb5f6d4193040da, type: 3}
+    - {fileID: 21300000, guid: cfbe845d81436a94396b3809ed798803, type: 3}
+    Length: 10
+    fps: 15
 --- !u!1 &1964711680
 GameObject:
   m_ObjectHideFlags: 0

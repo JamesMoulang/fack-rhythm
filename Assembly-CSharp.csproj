@@ -67,6 +67,7 @@
      <Compile Include="Assets\Scripts\RaiseGrid.cs" />
      <Compile Include="Assets\Scripts\RiseAndFade.cs" />
      <Compile Include="Assets\Scripts\RotateCamera.cs" />
+     <Compile Include="Assets\Scripts\SquiggleController.cs" />
      <Compile Include="Assets\Scripts\Sway.cs" />
      <Compile Include="Assets\Scripts\ToggleSpriteOnBeat.cs" />
      <Compile Include="Assets\SimpleAnimator.cs" />

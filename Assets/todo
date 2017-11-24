@@ -1,0 +1,21 @@
+2. Play button
+, introduce swiping
+
+18.5
+
+1. Clouds
+	- Remove larger clouds
+	- Effects on top
+	- Movement
+		- Inherit camera velocity
+	- Clouds need to come out of the guy's mouth
+2. End of game
+	- Stop out of bounds errors
+3. Face
+	- Moving tentacles
+	- Highlights on features
+	- Eyebrows move
+	- Blinking
+4. Progression
+	- Machines need to drop in.
+	- Trees need to grow speakers.
