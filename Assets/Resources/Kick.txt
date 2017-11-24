@@ -1,0 +1,481 @@
+delta: 0
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 1008
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 1008
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 744
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 744
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 95
+Note On (channel 0): C2 with velocity 41
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 49
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 95
+Note On (channel 0): C2 with velocity 41
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 49
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 95
+Note On (channel 0): C2 with velocity 41
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 241
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 744
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 3816
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 95
+Note On (channel 0): C2 with velocity 41
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 49
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 95
+Note On (channel 0): C2 with velocity 41
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 49
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 95
+Note On (channel 0): C2 with velocity 41
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 241
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 744
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 96
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 48
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 96
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 48
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 360
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 744
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 744
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 240
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 480
+Note On (channel 0): C2 with velocity 100
+delta: 24
+Note Off (channel 0): C2 with velocity 64
+delta: 0

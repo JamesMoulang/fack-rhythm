@@ -1,0 +1,2913 @@
+delta: 3072
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 681
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 3465
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 201
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 681
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 3465
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 201
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 201
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 681
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 393
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 681
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 393
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 9
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 39
+Note On (channel 0): A4 with velocity 80
+delta: 24
+Note Off (channel 0): A4 with velocity 64
+delta: 0

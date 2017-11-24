@@ -1,0 +1,29 @@
+delta: 12864
+Note On (channel 0): F#2 with velocity 100
+delta: 192
+Note Off (channel 0): F#2 with velocity 64
+delta: 576
+Note On (channel 0): F#2 with velocity 100
+delta: 192
+Note Off (channel 0): F#2 with velocity 64
+delta: 576
+Note On (channel 0): F#2 with velocity 100
+delta: 192
+Note Off (channel 0): F#2 with velocity 64
+delta: 576
+Note On (channel 0): F#2 with velocity 100
+delta: 192
+Note Off (channel 0): F#2 with velocity 64
+delta: 576
+Note On (channel 0): F#2 with velocity 100
+delta: 192
+Note Off (channel 0): F#2 with velocity 64
+delta: 576
+Note On (channel 0): F#2 with velocity 100
+delta: 192
+Note Off (channel 0): F#2 with velocity 64
+delta: 576
+Note On (channel 0): F#2 with velocity 100
+delta: 192
+Note Off (channel 0): F#2 with velocity 64
+delta: 0

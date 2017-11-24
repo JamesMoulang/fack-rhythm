@@ -1,0 +1,117 @@
+delta: 192
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 744
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 7272
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 360
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 12803
+Note On (channel 0): D2 with velocity 39
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 72
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 648
+Note On (channel 0): D2 with velocity 39
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 72
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 648
+Note On (channel 0): D2 with velocity 39
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 72
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 648
+Note On (channel 0): D2 with velocity 39
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 72
+Note On (channel 0): D2 with velocity 100
+delta: 24
+Note Off (channel 0): D2 with velocity 64
+delta: 0

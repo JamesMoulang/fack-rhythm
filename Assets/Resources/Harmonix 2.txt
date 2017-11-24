@@ -1,0 +1,709 @@
+delta: 6539
+Note On (channel 0): G3 with velocity 100
+delta: 81
+Note Off (channel 0): G3 with velocity 64
+delta: 23
+Note On (channel 0): D3 with velocity 100
+delta: 39
+Note Off (channel 0): D3 with velocity 64
+delta: 51
+Note On (channel 0): F#3 with velocity 100
+delta: 87
+Note Off (channel 0): F#3 with velocity 64
+delta: 402
+Note On (channel 0): G3 with velocity 100
+delta: 64
+Note Off (channel 0): G3 with velocity 64
+delta: 34
+Note On (channel 0): D3 with velocity 100
+delta: 72
+Note Off (channel 0): D3 with velocity 64
+delta: 14
+Note On (channel 0): B2 with velocity 100
+delta: 9
+Note Off (channel 0): B2 with velocity 64
+delta: 41
+Note On (channel 0): F#3 with velocity 100
+delta: 32
+Note Off (channel 0): F#3 with velocity 64
+delta: 16
+Note On (channel 0): F#3 with velocity 100
+delta: 80
+Note Off (channel 0): F#3 with velocity 64
+delta: 491
+Note On (channel 0): G3 with velocity 100
+delta: 81
+Note Off (channel 0): G3 with velocity 64
+delta: 23
+Note On (channel 0): D3 with velocity 100
+delta: 39
+Note Off (channel 0): D3 with velocity 64
+delta: 51
+Note On (channel 0): F#3 with velocity 100
+delta: 87
+Note Off (channel 0): F#3 with velocity 64
+delta: 402
+Note On (channel 0): G3 with velocity 100
+delta: 64
+Note Off (channel 0): G3 with velocity 64
+delta: 34
+Note On (channel 0): D3 with velocity 100
+delta: 72
+Note Off (channel 0): D3 with velocity 64
+delta: 14
+Note On (channel 0): B2 with velocity 100
+delta: 9
+Note Off (channel 0): B2 with velocity 64
+delta: 41
+Note On (channel 0): F#3 with velocity 100
+delta: 32
+Note Off (channel 0): F#3 with velocity 64
+delta: 16
+Note On (channel 0): F#3 with velocity 100
+delta: 80
+Note Off (channel 0): F#3 with velocity 64
+delta: 302
+Note On (channel 0): F#3 with velocity 127
+delta: 106
+Note Off (channel 0): F#3 with velocity 64
+delta: 5
+Note On (channel 0): G3 with velocity 127
+delta: 79
+Note On (channel 0): B3 with velocity 127
+delta: 26
+Note Off (channel 0): G3 with velocity 64
+delta: 75
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 127
+delta: 74
+Note On (channel 0): F#3 with velocity 127
+delta: 34
+Note Off (channel 0): G3 with velocity 64
+delta: 48
+Note Off (channel 0): F#3 with velocity 64
+delta: 302
+Note On (channel 0): F#3 with velocity 127
+delta: 46
+Note Off (channel 0): F#3 with velocity 64
+delta: 2
+Note On (channel 0): F#3 with velocity 127
+delta: 63
+Note On (channel 0): G3 with velocity 127
+delta: 31
+Note Off (channel 0): F#3 with velocity 64
+delta: 48
+Note On (channel 0): B3 with velocity 127
+delta: 24
+Note Off (channel 0): G3 with velocity 64
+delta: 28
+Note On (channel 0): D3 with velocity 74
+delta: 44
+Note Off (channel 0): D3 with velocity 64
+delta: 0
+Note Off (channel 0): B3 with velocity 64
+delta: 24
+Note On (channel 0): G3 with velocity 127
+delta: 74
+Note On (channel 0): F#3 with velocity 127
+delta: 10
+Note Off (channel 0): G3 with velocity 64
+delta: 72
+Note Off (channel 0): F#3 with velocity 64
+delta: 302
+Note On (channel 0): F#3 with velocity 127
+delta: 106
+Note Off (channel 0): F#3 with velocity 64
+delta: 5
+Note On (channel 0): G3 with velocity 127
+delta: 79
+Note On (channel 0): B3 with velocity 127
+delta: 26
+Note Off (channel 0): G3 with velocity 64
+delta: 75
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 127
+delta: 74
+Note On (channel 0): F#3 with velocity 127
+delta: 34
+Note Off (channel 0): G3 with velocity 64
+delta: 48
+Note Off (channel 0): F#3 with velocity 64
+delta: 302
+Note On (channel 0): F#3 with velocity 127
+delta: 46
+Note Off (channel 0): F#3 with velocity 64
+delta: 2
+Note On (channel 0): F#3 with velocity 127
+delta: 63
+Note On (channel 0): G3 with velocity 127
+delta: 31
+Note Off (channel 0): F#3 with velocity 64
+delta: 36
+Note Off (channel 0): G3 with velocity 64
+delta: 6734
+Note On (channel 0): G#3 with velocity 100
+delta: 82
+Note Off (channel 0): G#3 with velocity 64
+delta: 51
+Note On (channel 0): A3 with velocity 100
+delta: 45
+Note Off (channel 0): A3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 100
+delta: 89
+Note Off (channel 0): G3 with velocity 64
+delta: 96
+Note On (channel 0): G3 with velocity 100
+delta: 72
+Note On (channel 0): B3 with velocity 100
+delta: 17
+Note Off (channel 0): G3 with velocity 64
+delta: 46
+Note On (channel 0): F#3 with velocity 100
+delta: 26
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 214
+Note On (channel 0): F#3 with velocity 100
+delta: 62
+Note On (channel 0): G3 with velocity 100
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 44
+Note On (channel 0): A3 with velocity 100
+delta: 18
+Note Off (channel 0): G3 with velocity 64
+delta: 27
+Note Off (channel 0): A3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 100
+delta: 89
+Note Off (channel 0): G3 with velocity 64
+delta: 96
+Note On (channel 0): G3 with velocity 100
+delta: 72
+Note On (channel 0): B3 with velocity 100
+delta: 17
+Note Off (channel 0): G3 with velocity 64
+delta: 46
+Note On (channel 0): F#3 with velocity 100
+delta: 26
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 206
+Note On (channel 0): G#3 with velocity 100
+delta: 82
+Note Off (channel 0): G#3 with velocity 64
+delta: 51
+Note On (channel 0): A3 with velocity 100
+delta: 45
+Note Off (channel 0): A3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 100
+delta: 89
+Note Off (channel 0): G3 with velocity 64
+delta: 96
+Note On (channel 0): G3 with velocity 100
+delta: 72
+Note On (channel 0): B3 with velocity 100
+delta: 17
+Note Off (channel 0): G3 with velocity 64
+delta: 46
+Note On (channel 0): F#3 with velocity 100
+delta: 26
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 214
+Note On (channel 0): F#3 with velocity 100
+delta: 62
+Note On (channel 0): G3 with velocity 100
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 44
+Note On (channel 0): A3 with velocity 100
+delta: 18
+Note Off (channel 0): G3 with velocity 64
+delta: 27
+Note Off (channel 0): A3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 100
+delta: 89
+Note Off (channel 0): G3 with velocity 64
+delta: 96
+Note On (channel 0): G3 with velocity 100
+delta: 72
+Note On (channel 0): B3 with velocity 100
+delta: 17
+Note Off (channel 0): G3 with velocity 64
+delta: 46
+Note On (channel 0): F#3 with velocity 100
+delta: 26
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 206
+Note On (channel 0): G#3 with velocity 100
+delta: 82
+Note Off (channel 0): G#3 with velocity 64
+delta: 51
+Note On (channel 0): A3 with velocity 100
+delta: 45
+Note Off (channel 0): A3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 100
+delta: 89
+Note Off (channel 0): G3 with velocity 64
+delta: 96
+Note On (channel 0): G3 with velocity 100
+delta: 72
+Note On (channel 0): B3 with velocity 100
+delta: 17
+Note Off (channel 0): G3 with velocity 64
+delta: 46
+Note On (channel 0): F#3 with velocity 100
+delta: 26
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 214
+Note On (channel 0): F#3 with velocity 100
+delta: 62
+Note On (channel 0): G3 with velocity 100
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 44
+Note On (channel 0): A3 with velocity 100
+delta: 18
+Note Off (channel 0): G3 with velocity 64
+delta: 27
+Note Off (channel 0): A3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 100
+delta: 89
+Note Off (channel 0): G3 with velocity 64
+delta: 96
+Note On (channel 0): G3 with velocity 100
+delta: 72
+Note On (channel 0): B3 with velocity 100
+delta: 17
+Note Off (channel 0): G3 with velocity 64
+delta: 46
+Note On (channel 0): F#3 with velocity 100
+delta: 26
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 206
+Note On (channel 0): G#3 with velocity 100
+delta: 82
+Note Off (channel 0): G#3 with velocity 64
+delta: 51
+Note On (channel 0): A3 with velocity 100
+delta: 45
+Note Off (channel 0): A3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 100
+delta: 89
+Note Off (channel 0): G3 with velocity 64
+delta: 96
+Note On (channel 0): G3 with velocity 100
+delta: 72
+Note On (channel 0): B3 with velocity 100
+delta: 17
+Note Off (channel 0): G3 with velocity 64
+delta: 46
+Note On (channel 0): F#3 with velocity 100
+delta: 26
+Note Off (channel 0): B3 with velocity 64
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 214
+Note On (channel 0): F#3 with velocity 100
+delta: 62
+Note On (channel 0): G3 with velocity 100
+delta: 19
+Note Off (channel 0): F#3 with velocity 64
+delta: 44
+Note On (channel 0): A3 with velocity 100
+delta: 18
+Note Off (channel 0): G3 with velocity 64
+delta: 27
+Note Off (channel 0): A3 with velocity 64
+delta: 19
+Note On (channel 0): G3 with velocity 100
+delta: 89
+Note Off (channel 0): G3 with velocity 64
+delta: 9506
+Note On (channel 0): G#3 with velocity 100
+delta: 14
+Note On (channel 0): E3 with velocity 100
+delta: 31
+Note Off (channel 0): G#3 with velocity 64
+delta: 14
+Note Off (channel 0): E3 with velocity 64
+delta: 59
+Note On (channel 0): G#2 with velocity 100
+delta: 24
+Note Off (channel 0): G#2 with velocity 64
+delta: 52
+Note On (channel 0): G3 with velocity 100
+delta: 20
+Note On (channel 0): D#3 with velocity 100
+delta: 25
+Note Off (channel 0): G3 with velocity 64
+delta: 20
+Note Off (channel 0): D#3 with velocity 64
+delta: 51
+Note On (channel 0): G2 with velocity 100
+delta: 24
+Note Off (channel 0): G2 with velocity 64
+delta: 40
+Note On (channel 0): G3 with velocity 100
+delta: 20
+Note On (channel 0): D#3 with velocity 100
+delta: 25
+Note Off (channel 0): G3 with velocity 64
+delta: 20
+Note Off (channel 0): D#3 with velocity 64
+delta: 329
+Note On (channel 0): G#3 with velocity 100
+delta: 14
+Note On (channel 0): E3 with velocity 100
+delta: 31
+Note Off (channel 0): G#3 with velocity 64
+delta: 14
+Note Off (channel 0): E3 with velocity 64
+delta: 59
+Note On (channel 0): G#2 with velocity 100
+delta: 24
+Note Off (channel 0): G#2 with velocity 64
+delta: 52
+Note On (channel 0): G3 with velocity 100
+delta: 44
+Note On (channel 0): D#3 with velocity 100
+delta: 1
+Note Off (channel 0): G3 with velocity 64
+delta: 44
+Note Off (channel 0): D#3 with velocity 64
+delta: 27
+Note On (channel 0): G2 with velocity 100
+delta: 24
+Note Off (channel 0): G2 with velocity 64
+delta: 40
+Note On (channel 0): G3 with velocity 100
+delta: 20
+Note On (channel 0): D#3 with velocity 100
+delta: 25
+Note Off (channel 0): G3 with velocity 64
+delta: 20
+Note Off (channel 0): D#3 with velocity 64
+delta: 39
+Note On (channel 0): A#2 with velocity 100
+delta: 45
+Note Off (channel 0): A#2 with velocity 64
+delta: 245
+Note On (channel 0): G#3 with velocity 100
+delta: 14
+Note On (channel 0): E3 with velocity 100
+delta: 31
+Note Off (channel 0): G#3 with velocity 64
+delta: 14
+Note Off (channel 0): E3 with velocity 64
+delta: 59
+Note On (channel 0): G#2 with velocity 100
+delta: 24
+Note Off (channel 0): G#2 with velocity 64
+delta: 52
+Note On (channel 0): G3 with velocity 100
+delta: 20
+Note On (channel 0): D#3 with velocity 100
+delta: 25
+Note Off (channel 0): G3 with velocity 64
+delta: 20
+Note Off (channel 0): D#3 with velocity 64
+delta: 51
+Note On (channel 0): G2 with velocity 100
+delta: 24
+Note Off (channel 0): G2 with velocity 64
+delta: 40
+Note On (channel 0): G3 with velocity 100
+delta: 20
+Note On (channel 0): D#3 with velocity 100
+delta: 25
+Note Off (channel 0): G3 with velocity 64
+delta: 20
+Note Off (channel 0): D#3 with velocity 64
+delta: 329
+Note On (channel 0): G#3 with velocity 100
+delta: 14
+Note On (channel 0): E3 with velocity 100
+delta: 31
+Note Off (channel 0): G#3 with velocity 64
+delta: 14
+Note Off (channel 0): E3 with velocity 64
+delta: 59
+Note On (channel 0): G#2 with velocity 100
+delta: 24
+Note Off (channel 0): G#2 with velocity 64
+delta: 52
+Note On (channel 0): G3 with velocity 100
+delta: 44
+Note On (channel 0): D#3 with velocity 100
+delta: 1
+Note Off (channel 0): G3 with velocity 64
+delta: 44
+Note Off (channel 0): D#3 with velocity 64
+delta: 27
+Note On (channel 0): G2 with velocity 100
+delta: 24
+Note Off (channel 0): G2 with velocity 64
+delta: 40
+Note On (channel 0): G3 with velocity 100
+delta: 20
+Note On (channel 0): D#3 with velocity 100
+delta: 25
+Note Off (channel 0): G3 with velocity 64
+delta: 20
+Note Off (channel 0): D#3 with velocity 64
+delta: 39
+Note On (channel 0): A#2 with velocity 100
+delta: 45
+Note Off (channel 0): A#2 with velocity 64
+delta: 245
+Note On (channel 0): G3 with velocity 100
+delta: 14
+Note On (channel 0): D#3 with velocity 100
+delta: 31
+Note Off (channel 0): G3 with velocity 64
+delta: 14
+Note Off (channel 0): D#3 with velocity 64
+delta: 59
+Note On (channel 0): G2 with velocity 100
+delta: 24
+Note Off (channel 0): G2 with velocity 64
+delta: 52
+Note On (channel 0): F#3 with velocity 100
+delta: 20
+Note On (channel 0): D3 with velocity 100
+delta: 25
+Note Off (channel 0): F#3 with velocity 64
+delta: 20
+Note Off (channel 0): D3 with velocity 64
+delta: 51
+Note On (channel 0): F#2 with velocity 100
+delta: 24
+Note Off (channel 0): F#2 with velocity 64
+delta: 40
+Note On (channel 0): F#3 with velocity 100
+delta: 20
+Note On (channel 0): D3 with velocity 100
+delta: 25
+Note Off (channel 0): F#3 with velocity 64
+delta: 20
+Note Off (channel 0): D3 with velocity 64
+delta: 329
+Note On (channel 0): G3 with velocity 100
+delta: 14
+Note On (channel 0): D#3 with velocity 100
+delta: 31
+Note Off (channel 0): G3 with velocity 64
+delta: 14
+Note Off (channel 0): D#3 with velocity 64
+delta: 59
+Note On (channel 0): G2 with velocity 100
+delta: 24
+Note Off (channel 0): G2 with velocity 64
+delta: 52
+Note On (channel 0): F#3 with velocity 100
+delta: 44
+Note On (channel 0): D3 with velocity 100
+delta: 1
+Note Off (channel 0): F#3 with velocity 64
+delta: 44
+Note Off (channel 0): D3 with velocity 64
+delta: 27
+Note On (channel 0): F#2 with velocity 100
+delta: 24
+Note Off (channel 0): F#2 with velocity 64
+delta: 40
+Note On (channel 0): F#3 with velocity 100
+delta: 20
+Note On (channel 0): D3 with velocity 100
+delta: 25
+Note Off (channel 0): F#3 with velocity 64
+delta: 20
+Note Off (channel 0): D3 with velocity 64
+delta: 39
+Note On (channel 0): A2 with velocity 100
+delta: 45
+Note Off (channel 0): A2 with velocity 64
+delta: 245
+Note On (channel 0): G3 with velocity 100
+delta: 14
+Note On (channel 0): D#3 with velocity 100
+delta: 31
+Note Off (channel 0): G3 with velocity 64
+delta: 14
+Note Off (channel 0): D#3 with velocity 64
+delta: 59
+Note On (channel 0): G2 with velocity 100
+delta: 24
+Note Off (channel 0): G2 with velocity 64
+delta: 52
+Note On (channel 0): F#3 with velocity 100
+delta: 20
+Note On (channel 0): D3 with velocity 100
+delta: 25
+Note Off (channel 0): F#3 with velocity 64
+delta: 20
+Note Off (channel 0): D3 with velocity 64
+delta: 51
+Note On (channel 0): F#2 with velocity 100
+delta: 24
+Note Off (channel 0): F#2 with velocity 64
+delta: 40
+Note On (channel 0): F#3 with velocity 100
+delta: 20
+Note On (channel 0): D3 with velocity 100
+delta: 25
+Note Off (channel 0): F#3 with velocity 64
+delta: 20
+Note Off (channel 0): D3 with velocity 64
+delta: 329
+Note On (channel 0): G3 with velocity 100
+delta: 14
+Note On (channel 0): D#3 with velocity 100
+delta: 31
+Note Off (channel 0): G3 with velocity 64
+delta: 14
+Note Off (channel 0): D#3 with velocity 64
+delta: 59
+Note On (channel 0): G2 with velocity 100
+delta: 24
+Note Off (channel 0): G2 with velocity 64
+delta: 52
+Note On (channel 0): F#3 with velocity 100
+delta: 20
+Note On (channel 0): D3 with velocity 100
+delta: 25
+Note Off (channel 0): F#3 with velocity 64
+delta: 20
+Note Off (channel 0): D3 with velocity 64
+delta: 51
+Note On (channel 0): F#2 with velocity 100
+delta: 24
+Note Off (channel 0): F#2 with velocity 64
+delta: 40
+Note On (channel 0): F3 with velocity 100
+delta: 20
+Note On (channel 0): C#3 with velocity 100
+delta: 25
+Note Off (channel 0): F3 with velocity 64
+delta: 20
+Note Off (channel 0): C#3 with velocity 64
+delta: 39
+Note On (channel 0): F2 with velocity 100
+delta: 45
+Note Off (channel 0): F2 with velocity 64
+delta: 3497
+Note On (channel 0): F#2 with velocity 100
+delta: 22
+Note Off (channel 0): F#2 with velocity 64
+delta: 0
+Note On (channel 0): D3 with velocity 100
+delta: 9
+Note Off (channel 0): D3 with velocity 64
+delta: 255
+Note On (channel 0): G2 with velocity 100
+delta: 12
+Note Off (channel 0): G2 with velocity 64
+delta: 3
+Note On (channel 0): A#2 with velocity 100
+delta: 9
+Note Off (channel 0): A#2 with velocity 64
+delta: 24
+Note On (channel 0): F#2 with velocity 100
+delta: 24
+Note Off (channel 0): F#2 with velocity 64
+delta: 36
+Note On (channel 0): G2 with velocity 100
+delta: 31
+Note Off (channel 0): G2 with velocity 64
+delta: 29
+Note On (channel 0): F#2 with velocity 100
+delta: 12
+Note Off (channel 0): F#2 with velocity 64
+delta: 302
+Note On (channel 0): F#2 with velocity 100
+delta: 22
+Note Off (channel 0): F#2 with velocity 64
+delta: 0
+Note On (channel 0): D3 with velocity 100
+delta: 9
+Note Off (channel 0): D3 with velocity 64
+delta: 39
+Note On (channel 0): F#3 with velocity 100
+delta: 9
+Note Off (channel 0): F#3 with velocity 64
+delta: 207
+Note On (channel 0): G2 with velocity 100
+delta: 12
+Note Off (channel 0): G2 with velocity 64
+delta: 3
+Note On (channel 0): G3 with velocity 100
+delta: 9
+Note Off (channel 0): G3 with velocity 64
+delta: 24
+Note On (channel 0): F#2 with velocity 100
+delta: 24
+Note Off (channel 0): F#2 with velocity 64
+delta: 36
+Note On (channel 0): G2 with velocity 100
+delta: 31
+Note Off (channel 0): G2 with velocity 64
+delta: 343
+Note On (channel 0): F#2 with velocity 100
+delta: 22
+Note Off (channel 0): F#2 with velocity 64
+delta: 0
+Note On (channel 0): D3 with velocity 100
+delta: 9
+Note Off (channel 0): D3 with velocity 64
+delta: 255
+Note On (channel 0): G2 with velocity 100
+delta: 12
+Note Off (channel 0): G2 with velocity 64
+delta: 3
+Note On (channel 0): A#2 with velocity 100
+delta: 9
+Note Off (channel 0): A#2 with velocity 64
+delta: 24
+Note On (channel 0): F#2 with velocity 100
+delta: 24
+Note Off (channel 0): F#2 with velocity 64
+delta: 36
+Note On (channel 0): G2 with velocity 100
+delta: 31
+Note Off (channel 0): G2 with velocity 64
+delta: 29
+Note On (channel 0): F#2 with velocity 100
+delta: 12
+Note Off (channel 0): F#2 with velocity 64
+delta: 302
+Note On (channel 0): F#2 with velocity 100
+delta: 22
+Note Off (channel 0): F#2 with velocity 64
+delta: 0
+Note On (channel 0): D3 with velocity 100
+delta: 9
+Note Off (channel 0): D3 with velocity 64
+delta: 39
+Note On (channel 0): F#3 with velocity 100
+delta: 9
+Note Off (channel 0): F#3 with velocity 64
+delta: 0

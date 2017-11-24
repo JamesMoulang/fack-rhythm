@@ -1,0 +1,49 @@
+delta: 6144
+Note On (channel 0): C4 with velocity 100
+delta: 96
+Note Off (channel 0): C4 with velocity 64
+delta: 672
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 576
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 576
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 9792
+Note On (channel 0): C4 with velocity 100
+delta: 96
+Note Off (channel 0): C4 with velocity 64
+delta: 672
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 576
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 576
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 13440
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 576
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 576
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 576
+Note On (channel 0): C4 with velocity 100
+delta: 192
+Note Off (channel 0): C4 with velocity 64
+delta: 0

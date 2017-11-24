@@ -1,0 +1,97 @@
+delta: 0
+Note On (channel 0): C7 with velocity 100
+delta: 48
+Note Off (channel 0): C7 with velocity 64
+delta: 47
+Note On (channel 0): D7 with velocity 100
+delta: 48
+Note Off (channel 0): D7 with velocity 64
+delta: 2929
+Note On (channel 0): C6 with velocity 100
+delta: 48
+Note Off (channel 0): C6 with velocity 64
+delta: 47
+Note On (channel 0): D6 with velocity 100
+delta: 48
+Note Off (channel 0): D6 with velocity 64
+delta: 9073
+Note On (channel 0): C7 with velocity 100
+delta: 48
+Note Off (channel 0): C7 with velocity 64
+delta: 47
+Note On (channel 0): D7 with velocity 100
+delta: 48
+Note Off (channel 0): D7 with velocity 64
+delta: 2929
+Note On (channel 0): C6 with velocity 100
+delta: 48
+Note Off (channel 0): C6 with velocity 64
+delta: 47
+Note On (channel 0): D6 with velocity 100
+delta: 48
+Note Off (channel 0): D6 with velocity 64
+delta: 9073
+Note On (channel 0): C7 with velocity 100
+delta: 48
+Note Off (channel 0): C7 with velocity 64
+delta: 47
+Note On (channel 0): D7 with velocity 100
+delta: 48
+Note Off (channel 0): D7 with velocity 64
+delta: 1393
+Note On (channel 0): C6 with velocity 100
+delta: 48
+Note Off (channel 0): C6 with velocity 64
+delta: 47
+Note On (channel 0): D6 with velocity 100
+delta: 48
+Note Off (channel 0): D6 with velocity 64
+delta: 1393
+Note On (channel 0): C7 with velocity 100
+delta: 48
+Note Off (channel 0): C7 with velocity 64
+delta: 47
+Note On (channel 0): D7 with velocity 100
+delta: 48
+Note Off (channel 0): D7 with velocity 64
+delta: 1393
+Note On (channel 0): C6 with velocity 100
+delta: 48
+Note Off (channel 0): C6 with velocity 64
+delta: 47
+Note On (channel 0): D6 with velocity 100
+delta: 48
+Note Off (channel 0): D6 with velocity 64
+delta: 1393
+Note On (channel 0): C7 with velocity 100
+delta: 48
+Note Off (channel 0): C7 with velocity 64
+delta: 47
+Note On (channel 0): D7 with velocity 100
+delta: 48
+Note Off (channel 0): D7 with velocity 64
+delta: 1393
+Note On (channel 0): C6 with velocity 100
+delta: 48
+Note Off (channel 0): C6 with velocity 64
+delta: 47
+Note On (channel 0): D6 with velocity 100
+delta: 48
+Note Off (channel 0): D6 with velocity 64
+delta: 7537
+Note On (channel 0): C7 with velocity 100
+delta: 48
+Note Off (channel 0): C7 with velocity 64
+delta: 47
+Note On (channel 0): D7 with velocity 100
+delta: 48
+Note Off (channel 0): D7 with velocity 64
+delta: 6001
+Note On (channel 0): C7 with velocity 100
+delta: 48
+Note Off (channel 0): C7 with velocity 64
+delta: 47
+Note On (channel 0): D7 with velocity 100
+delta: 48
+Note Off (channel 0): D7 with velocity 64
+delta: 0

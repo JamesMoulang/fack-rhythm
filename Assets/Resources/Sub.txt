@@ -1,0 +1,373 @@
+delta: 6144
+Note On (channel 0): F#1 with velocity 100
+delta: 96
+Note Off (channel 0): F#1 with velocity 64
+delta: 672
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 1344
+Note On (channel 0): F#1 with velocity 100
+delta: 96
+Note Off (channel 0): F#1 with velocity 64
+delta: 672
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 3648
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 29
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 21
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 413
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 17
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 29
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 21
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 413
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 17
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 29
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 21
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 413
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 17
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 29
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 21
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 413
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 17
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 24
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 29
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 21
+Note On (channel 0): F#1 with velocity 100
+delta: 82
+Note Off (channel 0): F#1 with velocity 64
+delta: 67
+Note On (channel 0): F#1 with velocity 100
+delta: 113
+Note Off (channel 0): F#1 with velocity 64
+delta: 216
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 24
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 29
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 21
+Note On (channel 0): F#1 with velocity 100
+delta: 82
+Note Off (channel 0): F#1 with velocity 64
+delta: 67
+Note On (channel 0): F#1 with velocity 100
+delta: 113
+Note Off (channel 0): F#1 with velocity 64
+delta: 216
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 24
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 29
+Note On (channel 0): F#1 with velocity 100
+delta: 72
+Note Off (channel 0): F#1 with velocity 64
+delta: 21
+Note On (channel 0): F#1 with velocity 100
+delta: 82
+Note Off (channel 0): F#1 with velocity 64
+delta: 67
+Note On (channel 0): F#1 with velocity 100
+delta: 113
+Note Off (channel 0): F#1 with velocity 64
+delta: 984
+Note On (channel 0): F#1 with velocity 100
+delta: 96
+Note Off (channel 0): F#1 with velocity 64
+delta: 480
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 0
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 384
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 0
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 384
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 0
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 384
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 0
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 384
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 0
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 384
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 0
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 384
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 0
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 384
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 780
+Note On (channel 0): F#1 with velocity 100
+delta: 108
+Note Off (channel 0): F#1 with velocity 64
+delta: 276
+Note On (channel 0): G1 with velocity 100
+delta: 108
+Note Off (channel 0): G1 with velocity 64
+delta: 132
+Note On (channel 0): E2 with velocity 100
+delta: 108
+Note Off (channel 0): E2 with velocity 64
+delta: 36
+Note On (channel 0): F#1 with velocity 100
+delta: 108
+Note Off (channel 0): F#1 with velocity 64
+delta: 276
+Note On (channel 0): G1 with velocity 100
+delta: 108
+Note Off (channel 0): G1 with velocity 64
+delta: 132
+Note On (channel 0): E2 with velocity 100
+delta: 108
+Note Off (channel 0): E2 with velocity 64
+delta: 36
+Note On (channel 0): F#1 with velocity 100
+delta: 108
+Note Off (channel 0): F#1 with velocity 64
+delta: 276
+Note On (channel 0): G1 with velocity 100
+delta: 108
+Note Off (channel 0): G1 with velocity 64
+delta: 132
+Note On (channel 0): E2 with velocity 100
+delta: 108
+Note Off (channel 0): E2 with velocity 64
+delta: 36
+Note On (channel 0): F#1 with velocity 100
+delta: 108
+Note Off (channel 0): F#1 with velocity 64
+delta: 276
+Note On (channel 0): G1 with velocity 100
+delta: 108
+Note Off (channel 0): G1 with velocity 64
+delta: 132
+Note On (channel 0): E2 with velocity 100
+delta: 108
+Note Off (channel 0): E2 with velocity 64
+delta: 36
+Note On (channel 0): F#1 with velocity 100
+delta: 108
+Note Off (channel 0): F#1 with velocity 64
+delta: 276
+Note On (channel 0): G1 with velocity 100
+delta: 108
+Note Off (channel 0): G1 with velocity 64
+delta: 132
+Note On (channel 0): E2 with velocity 100
+delta: 108
+Note Off (channel 0): E2 with velocity 64
+delta: 36
+Note On (channel 0): F#1 with velocity 100
+delta: 108
+Note Off (channel 0): F#1 with velocity 64
+delta: 276
+Note On (channel 0): G1 with velocity 100
+delta: 108
+Note Off (channel 0): G1 with velocity 64
+delta: 132
+Note On (channel 0): E2 with velocity 100
+delta: 108
+Note Off (channel 0): E2 with velocity 64
+delta: 36
+Note On (channel 0): F#1 with velocity 100
+delta: 108
+Note Off (channel 0): F#1 with velocity 64
+delta: 648
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 576
+Note On (channel 0): F#1 with velocity 100
+delta: 192
+Note Off (channel 0): F#1 with velocity 64
+delta: 0

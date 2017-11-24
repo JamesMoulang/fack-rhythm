@@ -1,0 +1,689 @@
+delta: 72
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 5899
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 5995
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 5995
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 2923
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 5995
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 5995
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 67
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 115
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 211
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 60
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 24
+Note Off (channel 0): D#4 with velocity 64
+delta: 240
+Note On (channel 0): D#4 with velocity 100
+delta: 36
+Note Off (channel 0): D#4 with velocity 64
+delta: 12
+Note On (channel 0): D#4 with velocity 100
+delta: 48
+Note Off (channel 0): D#4 with velocity 64
+delta: 24
+Note On (channel 0): D#4 with velocity 100
+delta: 29
+Note Off (channel 0): D#4 with velocity 64
+delta: 0

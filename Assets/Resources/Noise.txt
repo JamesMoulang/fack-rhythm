@@ -1,0 +1,65 @@
+delta: 6144
+Note On (channel 0): B3 with velocity 100
+delta: 96
+Note Off (channel 0): B3 with velocity 64
+delta: 1440
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 7488
+Note On (channel 0): B3 with velocity 100
+delta: 96
+Note Off (channel 0): B3 with velocity 64
+delta: 1440
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 10560
+Note On (channel 0): B3 with velocity 100
+delta: 96
+Note Off (channel 0): B3 with velocity 64
+delta: 1440
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 96
+Note Off (channel 0): B3 with velocity 64
+delta: 1440
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 1344
+Note On (channel 0): B3 with velocity 100
+delta: 192
+Note Off (channel 0): B3 with velocity 64
+delta: 0
